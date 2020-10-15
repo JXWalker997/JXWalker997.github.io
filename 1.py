@@ -1,3 +1,1 @@
-1
-1322456
-54161
+print("hello world")
